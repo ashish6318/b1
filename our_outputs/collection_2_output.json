@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T14:25:17.623337",
+    "processing_time_seconds": 8.11,
+    "system_version": "winning_v1.0",
+    "pipeline_stages": 5
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 10,
+      "section_title": "Preferences",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 18,
+      "section_title": "Actions menu",
+      "importance_rank": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "Customize Your Message",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 18,
+      "section_title": "License deployment",
+      "importance_rank": 4
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Professional Tip: Clear Instructions",
+      "importance_rank": 5
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 13,
+      "section_title": "conversion",
+      "importance_rank": 6
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 6,
+      "section_title": "Certify a PDF",
+      "importance_rank": 7
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 14,
+      "section_title": "Print forms",
+      "importance_rank": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Types of PDF forms",
+      "importance_rank": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 29,
+      "section_title": "Acrobat Create PDF",
+      "importance_rank": 10
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 16,
+      "section_title": "clear PDFs",
+      "importance_rank": 11
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 10,
+      "section_title": "Utilities Screenshot",
+      "importance_rank": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 9,
+      "section_title": "Note:",
+      "importance_rank": 13
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "(Shift- select to select multiple adjacent entries; Ctrl-select to select multiple nonadjacent entries.) Change flat forms to fillable (Acrobat Pro) You can change a flat form to a fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Interactive form To create an interactive form, use the Prepare Forms tool.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "See Create a form from an existing document.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Shared web forms can be viewed on the Manage page, but do not allow editing.",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "• Download Form Field Data - Downloads a CSV file of the field-level content for all child agreements spawned from this parent Bulk Send that have been completed.",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "• Download Individual Files - Provides the option to download the individual PDF files if multiple files were used to create the web form.",
+      "page_number": 18
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "• Create and Share the Link • Did you generate a shareable link and copy it for distribution?",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Here's a tailored checklist to help you manage your PDF sharing needs.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "License deployment You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console.",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "You can choose to either select the users to assign or create product profiles and assign users to the profiles.",
+      "page_number": 18
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Here's a tailored checklist to help you manage your PDF sharing needs.",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "• Create and Share the Link • Did you generate a shareable link and copy it for distribution?",
+      "page_number": 2
+    }
+  ]
+}

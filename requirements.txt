@@ -1,0 +1,23 @@
+# Challenge 1B: Persona-Driven Document Intelligence Requirements
+# All dependencies needed for CPU-only operation under 1GB constraint
+
+# Core dependencies (inherited from Challenge 1A)
+PyMuPDF==1.23.26
+numpy==1.24.4
+scikit-learn==1.3.2
+opencv-python-headless==4.8.1.78
+
+# Additional text processing
+regex==2023.12.25
+
+# JSON handling (built-in, but explicit for clarity)
+# json - built-in Python module
+
+# Date/time handling (built-in)
+# datetime - built-in Python module
+
+# File system operations (built-in)
+# os, pathlib - built-in Python modules
+
+# Logging (built-in)
+# logging - built-in Python module

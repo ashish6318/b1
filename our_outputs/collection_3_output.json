@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T14:25:23.073370",
+    "processing_time_seconds": 5.44,
+    "system_version": "winning_v1.0",
+    "pipeline_stages": 5
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 4,
+      "section_title": "Baked Beans",
+      "importance_rank": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 5,
+      "section_title": "Chicken and Avocado Salad",
+      "importance_rank": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 3,
+      "section_title": "Greek Yogurt Parfait",
+      "importance_rank": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 13,
+      "section_title": "Grilled Salmon",
+      "importance_rank": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 2,
+      "section_title": "Ingredients:",
+      "importance_rank": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 2,
+      "section_title": "Aloo Gobi",
+      "importance_rank": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "section_title": "Instructions:",
+      "importance_rank": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 3,
+      "section_title": "Dal Tadka",
+      "importance_rank": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 11,
+      "section_title": "Canh Chua",
+      "importance_rank": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 9,
+      "section_title": "Eggplant Parmesan",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Banchan • Ingredients: o Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi • Instructions: o Prepare each side dish separately.",
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Spinach and Feta Stuﬀed Pita Ingredients: • 1 whole wheat pita bread • 1/2 cup spinach, chopped • 1/4 cup feta cheese, crumbled • 1/4 cup cherry tomatoes, halved • 1 tablespoon olive oil • Salt and pepper to taste Instructions: • Cut the pita bread in half to create pockets.",
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Hummus and Veggie Pita Ingredients: • 1 whole wheat pita bread • 1/2 cup hummus • 1/2 cup cucumber, sliced • 1/2 cup bell pepper, sliced • 1/4 cup shredded carrots • 1/4 cup baby spinach Instructions: • Cut the pita bread in half to create pockets.",
+      "page_number": 3
+    }
+  ]
+}
